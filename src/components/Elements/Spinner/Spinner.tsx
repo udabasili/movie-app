@@ -1,4 +1,3 @@
-import React from 'react'
 import { SpinnerContainer } from './spinner.style';
 
 const sizes = {
