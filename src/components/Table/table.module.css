@@ -1,0 +1,15 @@
+.header {
+    background-color: black;
+}
+
+.tableheader  {
+    font-size: 14px !important;
+    font-weight: bold !important;
+    color: white !important;
+
+}
+
+.tabledata  {
+    font-size: 14px !important;
+    font-weight: 600 !important;
+}

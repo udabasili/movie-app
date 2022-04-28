@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    display: flex;
+    margin: 2rem 6rem;
+    flex-direction: column;
+    font-weight: 400;
+
+}

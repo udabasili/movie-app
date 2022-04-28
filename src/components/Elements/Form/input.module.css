@@ -1,0 +1,57 @@
+.formGroup {
+    
+    float: left;
+    color: #cc0033;
+    font-size: 13px;
+    line-height: 20px;
+    width: 200px;
+    font-family: 'Roboto', sans-serif;
+    margin: 9px 0;
+    font-weight: bold;
+}
+
+.label {
+    display: block;
+    margin-bottom: 2px;
+    color: #333;
+    font-weight: 500;
+}
+
+.input {
+    background: #fff;
+    border: 1px solid #999;
+    float: left;
+    font-weight: 500;
+    font-size: 13px;
+    height: 33px;
+    margin: 0;
+    padding: 0 0 0 15px;
+    width: 100%;
+}
+
+.errorMessage{
+    color: #cc0033;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 15px;
+    margin: 5px 0 0;
+}
+
+
+
+
+/* Error Styling */
+
+.error label {
+    color: #cc0033;
+}
+
+.error input[type=text] {
+    background-color: #fce4e4;
+    border: 1px solid #cc0033;
+    outline: none;
+}
+
+.error .error-message {
+    display: inline-block;
+}
